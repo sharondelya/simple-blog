@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/complaint": "pages/complaint.js",
+  "/": "pages/index.js",
+  "/blog/[slug]": "pages/blog/[slug].js",
+  "/login": "pages/login.js",
+  "/blog/edit/[id]": "pages/blog/edit/[id].js",
+  "/dashboard": "pages/dashboard.js",
+  "/blog/create": "pages/blog/create.js",
+  "/register": "pages/register.js"
+}

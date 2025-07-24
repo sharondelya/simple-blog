@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"..\\\\components\\\\RichTextEditor.js -> react-quill\":{\"id\":\"..\\\\components\\\\RichTextEditor.js -> react-quill\",\"files\":[\"static/chunks/node_modules_react-quill_lib_index_js.js\"]}}"
